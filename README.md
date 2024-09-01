@@ -1,5 +1,5 @@
 <h1>Metalink Web site</h1>
-<p>wMetalink is a fully responsive nft website,
+<p>Metalink is a fully responsive nft website,
 Responsive for all devices, build using HTML, CSS, and JavaScript.</p>
 <br><br>
 🌎 Find Me Here:<br>
